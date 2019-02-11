@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+vue material design lib, vue route를 이용한 예제
+
+
 ## Build Setup
 
 ``` bash
